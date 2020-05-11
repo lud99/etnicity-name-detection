@@ -4,12 +4,14 @@
     "description": "",
     "main": "model.js",
     "scripts": {
+        "dev": "nodemon server/app.js",
+        "start": "node server/app.js",
         "train": "node train-model.js",
-        "clean-data": "node sortTrainingData.js",
-        "test-white": "node test-model.js ./json/testData/white.json json/output/white.json",
-        "test-other": "node test-model.js ./json/testData/other.json json/output/other.json",
-        "test-all-male": "node test-model.js ./json/testData/all-male.json json/output/all-male.json",
-        "test-all-female": "node test-model.js ./json/testData/all-female.json json/output/all-female.json"
+        "clean-data": "node tensorflow/cleanTrainingData.js",
+        "test-white": "node tensorflow/test-model.js ./json/testData/white-array.json tensorflow/json/output/white.json",
+        "test-other": "node tensorflow/test-model.js ./json/testData/other-array.json tensorflow/json/output/other.json",
+        "test-all-male": "node tensorflow/test-model.js ./json/testData/all-male-array.json tensorflow/json/output/all-male.json",
+        "test-all-female": "node tensorflow/test-model.js ./json/testData/all-female-array.json tensorflow/json/output/all-female.json"
     },
     "keywords": [],
     "author": "",
@@ -17,6 +19,7 @@
     "dependencies": {
         "@tensorflow-models/universal-sentence-encoder": "^1.2.2",
         "@tensorflow/tfjs": "^1.7.4",
-        "@tensorflow/tfjs-node": "^1.7.4"
+        "@tensorflow/tfjs-node": "^1.7.4",
+        "express": "^4.17.1"
     }
 }

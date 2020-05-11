@@ -14,8 +14,12 @@ const encodeData = async (data, checkNoEthnicity = true) => {
     return trainingData
 };
 
+const epochs = process.argv[2];
+
 const train = async () => {
-    const outputData = tf.tensor2d(firstnames.filter(name => name.ethnicity !== "").map(name => [
+    const firstnamesCombined = firstnames.male.concat(firstnames.female);
+
+    const outputData = tf.tensor2d(firstnamesCombined.filter(name => name.ethnicity !== "").map(name => [
         name.ethnicity === 'white' ? 1 : 0,
         name.ethnicity === 'other' ? 1 : 0,
     ]));
@@ -48,13 +52,13 @@ const train = async () => {
     });
     
     data = await Promise.all([
-        encodeData(firstnames)
+        encodeData(firstnamesCombined)
     ]);
 
     const { 0: training_data } = data;
 
     // Train the model
-    await model.fit(training_data, outputData, { epochs: 1000 });
+    await model.fit(training_data, outputData, { epochs: epochs });
 
     // Save model
     await model.save('file://./model');

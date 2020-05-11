@@ -1,0 +1,1890 @@
+[
+    {
+        "name": "Abraham",
+        "ethnicity": "other",
+        "confidence": [
+            0.02261236310005188,
+            0.9773876667022705
+        ]
+    },
+    {
+        "name": "Adam",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Adolf",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Agaton",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Agne",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Albert",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Alexander",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Alf",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Alfons",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Alfred",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Algot",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Allan",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Alrik",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Alruni",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425346970558167
+        ]
+    },
+    {
+        "name": "Alvar",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Ambjörn",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Anders",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Andreas",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Ansgar",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257370233535767,
+            0.07426291704177856
+        ]
+    },
+    {
+        "name": "Arne",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Arnold",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425346970558167
+        ]
+    },
+    {
+        "name": "Arvid",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425346970558167
+        ]
+    },
+    {
+        "name": "August",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Axel",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Bengt",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257462024688721,
+            0.07425376772880554
+        ]
+    },
+    {
+        "name": "Benjamin",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Bernhard",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Bert",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Berthold",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Bertil",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Birger",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Björn",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Bo",
+        "ethnicity": "other",
+        "confidence": [
+            0.16776007413864136,
+            0.8322398662567139
+        ]
+    },
+    {
+        "name": "Boris",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Botvid",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Bror",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Bruno",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Cornelius",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Dag",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Dan",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Daniel",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "David",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Douglas",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Edgar",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Edmund",
+        "ethnicity": "other",
+        "confidence": [
+            0.169135183095932,
+            0.8308647871017456
+        ]
+    },
+    {
+        "name": "Edvard",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Edvin",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Egon",
+        "ethnicity": "other",
+        "confidence": [
+            0.16777414083480835,
+            0.8322257995605469
+        ]
+    },
+    {
+        "name": "Einar",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257454872131348,
+            0.07425448298454285
+        ]
+    },
+    {
+        "name": "Eje",
+        "ethnicity": "white",
+        "confidence": [
+            0.9162068963050842,
+            0.08379307389259338
+        ]
+    },
+    {
+        "name": "Elias",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Erik",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Erland",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Erling",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Ernst",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Esaias",
+        "ethnicity": "other",
+        "confidence": [
+            0.02261236310005188,
+            0.9773876667022705
+        ]
+    },
+    {
+        "name": "Esbjörn",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257445335388184,
+            0.07425543665885925
+        ]
+    },
+    {
+        "name": "Eskil",
+        "ethnicity": "other",
+        "confidence": [
+            0.16778746247291565,
+            0.8322125673294067
+        ]
+    },
+    {
+        "name": "Eugen",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Fabian",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257464408874512,
+            0.07425346970558167
+        ]
+    },
+    {
+        "name": "Fale",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257460832595825,
+            0.0742538571357727
+        ]
+    },
+    {
+        "name": "Fartegn",
+        "ethnicity": "other",
+        "confidence": [
+            0.16778752207756042,
+            0.8322124481201172
+        ]
+    },
+    {
+        "name": "Felix",
+        "ethnicity": "white",
+        "confidence": [
+            0.9028983116149902,
+            0.09710165858268738
+        ]
+    },
+    {
+        "name": "Ferdinand",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Filip",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Finn",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Folke",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Fredrik",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Fridolf",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Fritiof",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Fritz",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Gabriel",
+        "ethnicity": "white",
+        "confidence": [
+            0.8470420837402344,
+            0.15295779705047607
+        ]
+    },
+    {
+        "name": "Georg",
+        "ethnicity": "white",
+        "confidence": [
+            0.925735592842102,
+            0.07426437735557556
+        ]
+    },
+    {
+        "name": "Germund",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Gilbert",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Glenn",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Gudmar",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Gudmund",
+        "ethnicity": "white",
+        "confidence": [
+            0.925745964050293,
+            0.07425400614738464
+        ]
+    },
+    {
+        "name": "Gunde",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Gunnar",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Gus",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Gustav",
+        "ethnicity": "white",
+        "confidence": [
+            0.9256898760795593,
+            0.0743100643157959
+        ]
+    },
+    {
+        "name": "Göran",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Gösta",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Göte",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Hadar",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Halvar",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257335662841797,
+            0.07426637411117554
+        ]
+    },
+    {
+        "name": "Hampus",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257292747497559,
+            0.07427069544792175
+        ]
+    },
+    {
+        "name": "Harald",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Helge",
+        "ethnicity": "white",
+        "confidence": [
+            0.9185194969177246,
+            0.081480473279953
+        ]
+    },
+    {
+        "name": "Henning",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Henrik",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Herman",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Hilding",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Hjalmar",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Holger",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Holmfrid",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Hubert",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Inge",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Ingemar",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Ingemund",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Ingevald",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Ingvar",
+        "ethnicity": "other",
+        "confidence": [
+            0.16778826713562012,
+            0.8322117328643799
+        ]
+    },
+    {
+        "name": "Isak",
+        "ethnicity": "other",
+        "confidence": [
+            0.16778752207756042,
+            0.8322124481201172
+        ]
+    },
+    {
+        "name": "Israel",
+        "ethnicity": "other",
+        "confidence": [
+            0.16777658462524414,
+            0.8322234153747559
+        ]
+    },
+    {
+        "name": "Ivar",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Jakob",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Jan",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Jarl",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Jens",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Jerker",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257464408874512,
+            0.07425355911254883
+        ]
+    },
+    {
+        "name": "Jesper",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Joakim",
+        "ethnicity": "other",
+        "confidence": [
+            0.16778677701950073,
+            0.8322131633758545
+        ]
+    },
+    {
+        "name": "Joar",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Joel",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Johan",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Johannes",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "John",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Jonas",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Jonathan",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Josef",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Julius",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Justus",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257097244262695,
+            0.07429024577140808
+        ]
+    },
+    {
+        "name": "Jöns",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Jörgen",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Kaj",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Karl",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Kasten",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Kjell",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Klas",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Klemens",
+        "ethnicity": "other",
+        "confidence": [
+            0.16778764128684998,
+            0.8322123289108276
+        ]
+    },
+    {
+        "name": "Knut",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Konrad",
+        "ethnicity": "other",
+        "confidence": [
+            0.16780033707618713,
+            0.8321996331214905
+        ]
+    },
+    {
+        "name": "Konstantin",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Kristian",
+        "ethnicity": "other",
+        "confidence": [
+            0.16778752207756042,
+            0.8322124481201172
+        ]
+    },
+    {
+        "name": "Kurt",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Lage",
+        "ethnicity": "white",
+        "confidence": [
+            0.9252985119819641,
+            0.07470139861106873
+        ]
+    },
+    {
+        "name": "Lars",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Lennart",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Leo",
+        "ethnicity": "white",
+        "confidence": [
+            0.925464928150177,
+            0.07453504204750061
+        ]
+    },
+    {
+        "name": "Lindorm",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Lorentz",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Ludvig",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Lukas",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Magnus",
+        "ethnicity": "white",
+        "confidence": [
+            0.925541877746582,
+            0.07445812225341797
+        ]
+    },
+    {
+        "name": "Malte",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257276654243469,
+            0.07427230477333069
+        ]
+    },
+    {
+        "name": "Manfred",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Martin",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Mats",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Maximilian",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Melker",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Mikael",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Måns",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Mårten",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Natanael",
+        "ethnicity": "other",
+        "confidence": [
+            0.16782155632972717,
+            0.8321784138679504
+        ]
+    },
+    {
+        "name": "Niklas",
+        "ethnicity": "white",
+        "confidence": [
+            0.9256986379623413,
+            0.0743013322353363
+        ]
+    },
+    {
+        "name": "Nikodemus",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Nils",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Nore",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425346970558167
+        ]
+    },
+    {
+        "name": "Odd",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Ola",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Olaus",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Olof",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Orvar",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Oskar",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Ossian",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Ove",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Palmon",
+        "ethnicity": "white",
+        "confidence": [
+            0.925743818283081,
+            0.07425615191459656
+        ]
+    },
+    {
+        "name": "Patrik",
+        "ethnicity": "other",
+        "confidence": [
+            0.02261236310005188,
+            0.9773876667022705
+        ]
+    },
+    {
+        "name": "Paul",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Peder",
+        "ethnicity": "other",
+        "confidence": [
+            0.16768190264701843,
+            0.8323180675506592
+        ]
+    },
+    {
+        "name": "Per",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257446527481079,
+            0.07425528764724731
+        ]
+    },
+    {
+        "name": "Peter",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Petter",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Pontus",
+        "ethnicity": "other",
+        "confidence": [
+            0.16777700185775757,
+            0.8322229385375977
+        ]
+    },
+    {
+        "name": "Ragnar",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425346970558167
+        ]
+    },
+    {
+        "name": "Ragnvald",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Ralf",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Rasmus",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Reinhold",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Rikard",
+        "ethnicity": "other",
+        "confidence": [
+            0.1669948697090149,
+            0.8330051302909851
+        ]
+    },
+    {
+        "name": "Rickard",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Rickhard",
+        "ethnicity": "other",
+        "confidence": [
+            0.02261236310005188,
+            0.9773876667022705
+        ]
+    },
+    {
+        "name": "Robert",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Rodmar",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Roland",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Rolf",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Ruben",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Rudolf",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Rune",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257286190986633,
+            0.07427135109901428
+        ]
+    },
+    {
+        "name": "Rutger",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Rörik",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Samuel",
+        "ethnicity": "other",
+        "confidence": [
+            0.1677909791469574,
+            0.8322089910507202
+        ]
+    },
+    {
+        "name": "Sebastian",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Seved",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Sigmund",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Sigurd",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Sigvard",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Simon",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257464408874512,
+            0.07425355911254883
+        ]
+    },
+    {
+        "name": "Sjunne",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Staffan",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Stefan",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Stellan",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257461428642273,
+            0.07425382733345032
+        ]
+    },
+    {
+        "name": "Sten",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Sture",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Styrbjörn",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Sune",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Svante",
+        "ethnicity": "white",
+        "confidence": [
+            0.8168087005615234,
+            0.18319112062454224
+        ]
+    },
+    {
+        "name": "Sven",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Svenning",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Sverker",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Sölve",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Sören",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Tage",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425346970558167
+        ]
+    },
+    {
+        "name": "Teodor",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Tomas",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Torbjörn",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Tord",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Tore",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Torgny",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Torsten",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Truls",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257415533065796,
+            0.0742584764957428
+        ]
+    },
+    {
+        "name": "Ture",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Ulf",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Ulrik",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Uno",
+        "ethnicity": "white",
+        "confidence": [
+            0.9200700521469116,
+            0.07992991805076599
+        ]
+    },
+    {
+        "name": "Valdemar",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Valentin",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Viktor",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Vilgot",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257366061210632,
+            0.07426336407661438
+        ]
+    },
+    {
+        "name": "Vilhelm",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "William",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Yngve",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Åke",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Örjan",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    },
+    {
+        "name": "Östen",
+        "ethnicity": "white",
+        "confidence": [
+            0.9257465600967407,
+            0.07425343990325928
+        ]
+    }
+]

@@ -14,14 +14,24 @@ const encodeData = async (data, checkNoEthnicity = true) => {
     return trainingData
 };
 
+const encodeDataArray = async (data) => {
+    const sentences = data.map(item => item.toLowerCase());
+
+    // Load the model.
+    const model = (await use.load().catch(err => console.error('Fit Error:', err)));
+
+    // Return the training data
+    return await model.embed(sentences);
+};
+
 const load = async () => {
-    const model = await tf.loadLayersModel('file://./model/model.json');
+    const model = await tf.loadLayersModel('file://./tensorflow/model/model.json');
 
     return Promise.resolve(model);
 }
 
 const test = async (model, dataArray, filename) => {
-    const testing_data = await encodeData(dataArray, false);
+    const testing_data = await encodeDataArray(dataArray);
 
     const prediction = model.predict(testing_data).dataSync();
 
@@ -37,15 +47,18 @@ const test = async (model, dataArray, filename) => {
         if (pair[0] > pair[1]) ethnicity = "white";
         else if (pair[1] > pair[0]) ethnicity = "other";
 
-        data.push({ confidence: pair, ethnicity: ethnicity, name: dataArray[(i / 2) | 0].name});
+        data.push({ name: dataArray[(i / 2) | 0], ethnicity: ethnicity, confidence: pair });
     }
     
-    fs.writeFileSync(filename, JSON.stringify(data, null, 4));
+    //fs.writeFileSync(filename, JSON.stringify(data, null, 4));
 
     return Promise.resolve(data);
 }
-
+/*
 const testDataFilePath = process.argv[2];
 const outputFilePath = process.argv[3];
 
-load().then(async (model) => test(model, require(testDataFilePath), outputFilePath));
+load().then(async (model) => test(model, require(testDataFilePath), outputFilePath));*/
+
+module.exports.load = load;
+module.exports.predict = test;
