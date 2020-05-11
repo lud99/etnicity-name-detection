@@ -1,0 +1,912 @@
+[
+    {
+        "name": "Abraham",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Adam",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Adolf",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Agaton",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Agne",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Albert",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Alexander",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Alf",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Alfons",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Alfred",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Algot",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Allan",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Alrik",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Alruni",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Alvar",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Ambjörn",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Anders",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Andreas",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Ansgar",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Arne",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Arnold",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Arvid",
+        "ethnicity": "white"
+    },
+    {
+        "name": "August",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Axel",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Bengt",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Benjamin",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Bernhard",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Bert",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Berthold",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Bertil",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Birger",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Björn",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Bo",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Boris",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Botvid",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Bror",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Bruno",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Cornelius",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Dag",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Dan",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Daniel",
+        "ethnicity": "white"
+    },
+    {
+        "name": "David",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Douglas",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Edgar",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Edmund",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Edvard",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Edvin",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Egon",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Einar",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Eje",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Elias",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Erik",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Erland",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Erling",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Ernst",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Esaias",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Esbjörn",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Eskil",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Eugen",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Fabian",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Fale",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Fartegn",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Felix",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Ferdinand",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Filip",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Finn",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Folke",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Fredrik",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Fridolf",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Fritiof",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Fritz",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Gabriel",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Georg",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Germund",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Gilbert",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Glenn",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Gudmar",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Gudmund",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Gunde",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Gunnar",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Gus",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Gustav",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Göran",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Gösta",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Göte",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Hadar",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Halvar",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Hampus",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Harald",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Helge",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Henning",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Henrik",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Herman",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Hilding",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Hjalmar",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Holger",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Holmfrid",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Hubert",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Inge",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Ingemar",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Ingemund",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Ingevald",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Ingvar",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Isak",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Israel",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Ivar",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Jakob",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Jan",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Jarl",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Jens",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Jerker",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Jesper",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Joakim",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Joar",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Joel",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Johan",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Johannes",
+        "ethnicity": "white"
+    },
+    {
+        "name": "John",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Jonas",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Jonathan",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Josef",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Julius",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Justus",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Jöns",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Jörgen",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Kaj",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Karl",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Kasten",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Kjell",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Klas",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Klemens",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Knut",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Konrad",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Konstantin",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Kristian",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Kurt",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Lage",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Lars",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Lennart",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Leo",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Lindorm",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Lorentz",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Ludvig",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Lukas",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Magnus",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Malte",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Manfred",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Martin",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Mats",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Maximilian",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Melker",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Mikael",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Måns",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Mårten",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Natanael",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Niklas",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Nikodemus",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Nils",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Nore",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Odd",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Ola",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Olaus",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Olof",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Orvar",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Oskar",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Ossian",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Ove",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Palmon",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Patrik",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Paul",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Peder",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Per",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Peter",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Petter",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Pontus",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Ragnar",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Ragnvald",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Ralf",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Rasmus",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Reinhold",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Rikard",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Rickard",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Rickhard",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Robert",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Rodmar",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Roland",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Rolf",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Ruben",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Rudolf",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Rune",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Rutger",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Rörik",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Samuel",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Sebastian",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Seved",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Sigmund",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Sigurd",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Sigvard",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Simon",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Sjunne",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Staffan",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Stefan",
+        "ethnicity": "white"
+    },
+    {
+        "name": "Stellan"
+    },
+    {
+        "name": "Sten"
+    },
+    {
+        "name": "Sture"
+    },
+    {
+        "name": "Styrbjörn"
+    },
+    {
+        "name": "Sune"
+    },
+    {
+        "name": "Svante"
+    },
+    {
+        "name": "Sven"
+    },
+    {
+        "name": "Svenning"
+    },
+    {
+        "name": "Sverker"
+    },
+    {
+        "name": "Sölve"
+    },
+    {
+        "name": "Sören"
+    },
+    {
+        "name": "Tage"
+    },
+    {
+        "name": "Teodor"
+    },
+    {
+        "name": "Tomas"
+    },
+    {
+        "name": "Torbjörn"
+    },
+    {
+        "name": "Tord"
+    },
+    {
+        "name": "Tore"
+    },
+    {
+        "name": "Torgny"
+    },
+    {
+        "name": "Torsten"
+    },
+    {
+        "name": "Truls"
+    },
+    {
+        "name": "Ture"
+    },
+    {
+        "name": "Ulf"
+    },
+    {
+        "name": "Ulrik"
+    },
+    {
+        "name": "Uno"
+    },
+    {
+        "name": "Valdemar"
+    },
+    {
+        "name": "Valentin"
+    },
+    {
+        "name": "Viktor"
+    },
+    {
+        "name": "Vilgot"
+    },
+    {
+        "name": "Vilhelm"
+    },
+    {
+        "name": "William"
+    },
+    {
+        "name": "Yngve"
+    },
+    {
+        "name": "Åke"
+    },
+    {
+        "name": "Örjan"
+    },
+    {
+        "name": "Östen"
+    }
+]
